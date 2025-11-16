@@ -1,0 +1,104 @@
+# Wolt Ops Analytics Project
+
+This project is a complete **Operations & Product Analytics portfolio project** inspired by the real job role at **Wolt / Delivery Hero**.  
+It demonstrates end-to-end analytics skills including data cleaning, modeling, dashboarding, SQL, experimentation, and performance measurement.
+
+The goal of this project is to replicate the type of analytical work performed by analysts working in **Quick Commerce (Q-Commerce), Dmarts, Logistics, Delivery Operations, and Growth Product teams**.
+
+---
+
+## 📊 Project Overview
+
+This project uses real-world-style operational data with metrics such as:
+
+- City & market data  
+- Orders, cancellations, complaints  
+- Delivery time performance  
+- Revenue & ratings  
+- Courier supply and earnings  
+- Restaurant & courier activity  
+- Operational targets  
+- Week-by-week operational performance
+
+The final output includes:
+
+- **Complete SQL data model**
+- **One-page Looker-style operational dashboard**
+- **Insights for ops & product management teams**
+- **Documentation on how to reproduce the analysis**
+
+---
+
+## 🧱 Dataset Structure
+
+The main dataset contains:
+
+| Column | Description |
+|--------|-------------|
+| `city_id` | Unique city identifier |
+| `city_name` | Name of the city |
+| `market_tier` | Market classification (Tier 1/2/3) |
+| `population` | Population of the city |
+| `week_start` | Start date of the week |
+| `total_orders` | Total orders placed |
+| `cancelled_orders` | Cancelled orders |
+| `complaints` | Customer complaints |
+| `avg_delivery_mins` | Average delivery time |
+| `total_revenue` | Weekly revenue |
+| `avg_rating` | Customer rating |
+| `active_restaurants` | Active merchants |
+| `active_couriers` | Courier supply |
+| `avg_courier_earnings` | Earnings per courier |
+| `target_avg_delivery_mins` | SLA delivery target |
+| `target_cancellation_rate` | Expected cancellation SLA |
+
+---
+
+## 🛠 Tech Stack
+
+- **SQL (BigQuery-style)**
+- **Python (Pandas / Analysis notebooks)**
+- **Looker / BI Dashboard Style**
+- **GitHub for version control**
+
+---
+
+## 📈 One-Page Dashboard (Looker Style)
+
+The dashboard includes:
+
+### **1. KPI Summary**
+- Order volume  
+- SLA performance  
+- Cancellation rate  
+- Revenue & AOV  
+- Courier supply health  
+- Merchant availability  
+
+### **2. Delivery Performance Analysis**
+- Avg delivery time vs target  
+- Last 8-week trend  
+- Delay causes  
+
+### **3. Cancellations & Complaints**
+- Root-cause analysis  
+- City-level breakdown  
+
+### **4. Supply (Couriers) & Demand Balance**
+- Active couriers  
+- Earnings  
+- Supply–demand gap analysis  
+
+### **5. City-Level Heatmap**
+- Identify underperforming cities  
+- Priority action areas  
+
+---
+
+## 🚀 How to Run This Project Locally
+
+### **1. Clone the repository**
+```bash
+git clone https://github.com/amitbishnoi091/wolt-ops-analytics-project.git
+
+Looker Dashboard- https://lookerstudio.google.com/u/0/reporting/0e3e8c84-9302-42f2-bd83-13a75b6f1051/page/p_t1ujp1g6xd/edit
