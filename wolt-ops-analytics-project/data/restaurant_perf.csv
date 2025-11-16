@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city_id,city_name,cuisine_type,is_verified,orders_count,total_revenue,avg_rating,avg_prep_time,avg_delivery_fee,popularity_score
+RST_12_006,R_Hannover_6,12,Hannover,German,No,14700,411214.62,2.99,31.00,2.62,7041300
+RST_9_007,R_Essen_7,9,Essen,Chinese,No,14498,405239.22,3.01,45.00,2.8,2319680
+RST_5_002,R_Frankfurt_2,5,Frankfurt,Sushi,Yes,8670,245141.1,3.01,21.00,1.42,4178940
+RST_1_011,R_Berlin_11,1,Berlin,Turkish,Yes,8640,242810.08,2.97,48.00,3.8,630720
+RST_6_040,R_Stuttgart_40,6,Stuttgart,German,Yes,5592,154744.26,2.99,31.00,4.87,1258200
+RST_7_029,R_Dusseldorf_29,7,Dusseldorf,Italian,Yes,3900,109378.54,3.03,15.00,3.44,1848600
+RST_1_001,R_Berlin_1,1,Berlin,Cafe,No,0,0,3.00,38.00,2.94,388
+RST_1_002,R_Berlin_2,1,Berlin,Chinese,No,0,0,3.00,38.00,3.37,335
+RST_1_003,R_Berlin_3,1,Berlin,German,Yes,0,0,3.00,17.00,4.12,77
+RST_1_004,R_Berlin_4,1,Berlin,Cafe,No,0,0,3.00,48.00,3.59,477
+RST_1_005,R_Berlin_5,1,Berlin,Indian,Yes,0,0,3.00,43.00,1.18,237
+RST_1_006,R_Berlin_6,1,Berlin,Chinese,Yes,0,0,3.00,24.00,3.9,193
+RST_1_007,R_Berlin_7,1,Berlin,German,Yes,0,0,3.00,22.00,3.45,460
+RST_1_008,R_Berlin_8,1,Berlin,Chinese,Yes,0,0,3.00,15.00,3.83,127
+RST_1_009,R_Berlin_9,1,Berlin,Italian,Yes,0,0,3.00,47.00,4.85,302
+RST_1_010,R_Berlin_10,1,Berlin,Sushi,Yes,0,0,3.00,16.00,2.36,459
+RST_1_012,R_Berlin_12,1,Berlin,Chinese,No,0,0,3.00,22.00,1.79,497
+RST_1_013,R_Berlin_13,1,Berlin,Italian,No,0,0,3.00,21.00,1.28,365
+RST_1_014,R_Berlin_14,1,Berlin,Indian,Yes,0,0,3.00,39.00,2.8,54
+RST_1_015,R_Berlin_15,1,Berlin,Indian,No,0,0,3.00,19.00,4.42,377
+RST_1_016,R_Berlin_16,1,Berlin,Indian,No,0,0,3.00,25.00,3.93,355
+RST_1_017,R_Berlin_17,1,Berlin,Italian,Yes,0,0,3.00,21.00,1.66,373
+RST_1_018,R_Berlin_18,1,Berlin,Indian,Yes,0,0,3.00,34.00,2.47,483
+RST_1_019,R_Berlin_19,1,Berlin,"Fast Food",Yes,0,0,3.00,14.00,3.25,93
+RST_1_020,R_Berlin_20,1,Berlin,Chinese,No,0,0,3.00,11.00,3.46,421
+RST_1_021,R_Berlin_21,1,Berlin,German,Yes,0,0,3.00,17.00,4.76,36
+RST_1_022,R_Berlin_22,1,Berlin,Chinese,Yes,0,0,3.00,36.00,1.4,55
+RST_1_023,R_Berlin_23,1,Berlin,German,No,0,0,3.00,32.00,4.07,22
+RST_1_024,R_Berlin_24,1,Berlin,Indian,No,0,0,3.00,34.00,3.25,356
+RST_1_025,R_Berlin_25,1,Berlin,Turkish,Yes,0,0,3.00,24.00,2.92,302
+RST_1_026,R_Berlin_26,1,Berlin,Indian,Yes,0,0,3.00,46.00,2.63,383
+RST_1_027,R_Berlin_27,1,Berlin,German,Yes,0,0,3.00,49.00,2.43,490
+RST_1_028,R_Berlin_28,1,Berlin,"Fast Food",Yes,0,0,3.00,10.00,2.47,232
+RST_1_029,R_Berlin_29,1,Berlin,German,Yes,0,0,3.00,28.00,2.14,44
+RST_1_030,R_Berlin_30,1,Berlin,Chinese,No,0,0,3.00,37.00,4.85,273
+RST_1_031,R_Berlin_31,1,Berlin,Sushi,Yes,0,0,3.00,41.00,4.82,138
+RST_9_040,R_Essen_40,9,Essen,Cafe,Yes,0,0,3.00,24.00,1.43,265
+RST_1_033,R_Berlin_33,1,Berlin,Cafe,No,0,0,3.00,14.00,1.94,111
+RST_1_034,R_Berlin_34,1,Berlin,Chinese,No,0,0,3.00,30.00,3.7,243
+RST_1_035,R_Berlin_35,1,Berlin,Cafe,No,0,0,3.00,23.00,3.98,297
+RST_1_036,R_Berlin_36,1,Berlin,German,Yes,0,0,3.00,33.00,4.68,346
+RST_1_037,R_Berlin_37,1,Berlin,Italian,Yes,0,0,3.00,36.00,1.18,103
+RST_1_038,R_Berlin_38,1,Berlin,Chinese,Yes,0,0,3.00,15.00,3.11,264
+RST_1_039,R_Berlin_39,1,Berlin,"Fast Food",Yes,0,0,3.00,23.00,2.33,14
+RST_1_040,R_Berlin_40,1,Berlin,Sushi,Yes,0,0,3.00,38.00,4.33,466
+RST_10_001,R_Leipzig_1,10,Leipzig,Turkish,No,0,0,3.00,39.00,2.75,410
+RST_10_002,R_Leipzig_2,10,Leipzig,"Fast Food",Yes,0,0,3.00,13.00,3.22,314
+RST_10_003,R_Leipzig_3,10,Leipzig,Chinese,No,0,0,3.00,39.00,4.39,369
+RST_10_004,R_Leipzig_4,10,Leipzig,Chinese,Yes,0,0,3.00,27.00,3.58,286
+RST_10_005,R_Leipzig_5,10,Leipzig,Italian,Yes,0,0,3.00,12.00,3.41,317
+RST_10_006,R_Leipzig_6,10,Leipzig,Indian,Yes,0,0,3.00,12.00,2.44,75
+RST_10_007,R_Leipzig_7,10,Leipzig,German,Yes,0,0,3.00,47.00,2.58,183
+RST_10_008,R_Leipzig_8,10,Leipzig,Indian,No,0,0,3.00,13.00,4.83,499
+RST_10_009,R_Leipzig_9,10,Leipzig,Indian,Yes,0,0,3.00,34.00,2.35,185
+RST_10_010,R_Leipzig_10,10,Leipzig,Sushi,No,0,0,3.00,16.00,1.93,76
+RST_10_011,R_Leipzig_11,10,Leipzig,Chinese,No,0,0,3.00,11.00,2.68,83
+RST_10_012,R_Leipzig_12,10,Leipzig,Turkish,Yes,0,0,3.00,31.00,3.3,207
+RST_10_013,R_Leipzig_13,10,Leipzig,Italian,Yes,0,0,3.00,45.00,2.5,153
+RST_10_014,R_Leipzig_14,10,Leipzig,Indian,Yes,0,0,3.00,39.00,3.83,443
+RST_10_015,R_Leipzig_15,10,Leipzig,Sushi,No,0,0,3.00,48.00,3.93,383
+RST_10_016,R_Leipzig_16,10,Leipzig,Chinese,Yes,0,0,3.00,47.00,1.94,409
+RST_10_017,R_Leipzig_17,10,Leipzig,Indian,No,0,0,3.00,25.00,4.17,43
+RST_10_018,R_Leipzig_18,10,Leipzig,Indian,Yes,0,0,3.00,48.00,2.28,406
+RST_10_019,R_Leipzig_19,10,Leipzig,Cafe,No,0,0,3.00,18.00,1.29,230
+RST_10_020,R_Leipzig_20,10,Leipzig,Cafe,No,0,0,3.00,49.00,4.49,67
+RST_10_021,R_Leipzig_21,10,Leipzig,"Fast Food",No,0,0,3.00,14.00,2.9,453
+RST_10_022,R_Leipzig_22,10,Leipzig,Turkish,Yes,0,0,3.00,23.00,2.02,360
+RST_10_024,R_Leipzig_24,10,Leipzig,Cafe,Yes,0,0,3.00,13.00,3.78,423
+RST_10_025,R_Leipzig_25,10,Leipzig,German,No,0,0,3.00,39.00,2,239
+RST_10_026,R_Leipzig_26,10,Leipzig,Turkish,Yes,0,0,3.00,19.00,3.36,212
+RST_10_027,R_Leipzig_27,10,Leipzig,Sushi,Yes,0,0,3.00,48.00,4.78,95
+RST_10_029,R_Leipzig_29,10,Leipzig,"Fast Food",No,0,0,3.00,17.00,3.31,202
+RST_10_030,R_Leipzig_30,10,Leipzig,Chinese,Yes,0,0,3.00,40.00,1.43,88
+RST_10_031,R_Leipzig_31,10,Leipzig,Sushi,Yes,0,0,3.00,26.00,2.26,177
+RST_10_032,R_Leipzig_32,10,Leipzig,Cafe,Yes,0,0,3.00,22.00,2.32,277
+RST_10_033,R_Leipzig_33,10,Leipzig,Italian,Yes,0,0,3.00,21.00,3.6,160
+RST_10_034,R_Leipzig_34,10,Leipzig,Cafe,No,0,0,3.00,24.00,3.84,222
+RST_10_035,R_Leipzig_35,10,Leipzig,"Fast Food",Yes,0,0,3.00,34.00,4.04,110
+RST_10_036,R_Leipzig_36,10,Leipzig,Italian,No,0,0,3.00,49.00,1.32,67
+RST_10_038,R_Leipzig_38,10,Leipzig,Italian,No,0,0,3.00,33.00,2.63,44
+RST_10_039,R_Leipzig_39,10,Leipzig,Italian,Yes,0,0,3.00,30.00,4.52,154
+RST_10_040,R_Leipzig_40,10,Leipzig,Sushi,Yes,0,0,3.00,36.00,3.13,62
+RST_11_001,R_Bremen_1,11,Bremen,Sushi,No,0,0,3.00,41.00,3.41,116
+RST_11_002,R_Bremen_2,11,Bremen,Indian,Yes,0,0,3.00,18.00,1.33,306
+RST_11_003,R_Bremen_3,11,Bremen,Sushi,Yes,0,0,3.00,23.00,3.05,309
+RST_11_004,R_Bremen_4,11,Bremen,Turkish,Yes,0,0,3.00,46.00,1.57,201
+RST_11_005,R_Bremen_5,11,Bremen,Italian,Yes,0,0,3.00,31.00,2.72,244
+RST_11_006,R_Bremen_6,11,Bremen,Chinese,No,0,0,3.00,10.00,4.94,50
+RST_11_007,R_Bremen_7,11,Bremen,Cafe,Yes,0,0,3.00,48.00,2.18,218
+RST_11_008,R_Bremen_8,11,Bremen,Cafe,Yes,0,0,3.00,20.00,1.5,387
+RST_11_009,R_Bremen_9,11,Bremen,Cafe,Yes,0,0,3.00,30.00,2.14,230
+RST_11_010,R_Bremen_10,11,Bremen,Italian,No,0,0,3.00,10.00,2.31,78
+RST_11_011,R_Bremen_11,11,Bremen,"Fast Food",Yes,0,0,3.00,22.00,2.84,499
+RST_11_012,R_Bremen_12,11,Bremen,Chinese,Yes,0,0,3.00,48.00,2.34,334
+RST_11_013,R_Bremen_13,11,Bremen,Sushi,No,0,0,3.00,27.00,1.89,282
+RST_11_015,R_Bremen_15,11,Bremen,German,No,0,0,3.00,49.00,4.86,464
+RST_11_016,R_Bremen_16,11,Bremen,"Fast Food",Yes,0,0,3.00,17.00,1.15,466
+RST_11_017,R_Bremen_17,11,Bremen,German,No,0,0,3.00,14.00,3.44,133
+RST_11_018,R_Bremen_18,11,Bremen,Indian,Yes,0,0,3.00,29.00,4.67,25
+RST_11_019,R_Bremen_19,11,Bremen,"Fast Food",No,0,0,3.00,48.00,1.74,54
